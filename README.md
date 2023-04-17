@@ -25,4 +25,4 @@ At the end of this project, you are expected to be able to explain to anyone, wi
 
 ## Directories
 
-### [0x00-Webpack](./0x00_Webpack)
+### [0x00-Webpack](./0x00-Webpack)
